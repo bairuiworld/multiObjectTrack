@@ -1,0 +1,79 @@
+{
+    "DataSet":{
+
+    "baseline": [
+        "highway", 
+        "pedestrians", 
+        "PETS2006", 
+        "office"
+    ], 
+    "dynamicBackground": [
+        "fountain02", 
+        "fall", 
+        "canoe", 
+        "fountain01", 
+        "boats", 
+        "overpass"
+    ], 
+    "cameraJitter": [
+        "sidewalk", 
+        "badminton", 
+        "traffic", 
+        "boulevard"
+    ], 
+    "intermittentObjectMotion": [
+        "sofa", 
+        "parking", 
+        "winterDriveway", 
+        "abandonedBox", 
+        "streetLight", 
+        "tramstop"
+    ], 
+    "nightVideos": [
+        "busyBoulvard", 
+        "bridgeEntry", 
+        "winterStreet", 
+        "fluidHighway", 
+        "streetCornerAtNight", 
+        "tramStation"
+    ], 
+    "thermal": [
+        "lakeSide", 
+        "park", 
+        "library", 
+        "corridor", 
+        "diningRoom"
+    ], 
+    "PTZ": [
+        "intermittentPan", 
+        "twoPositionPTZCam", 
+        "continuousPan", 
+        "zoomInZoomOut"
+    ], 
+    "turbulence": [
+        "turbulence3", 
+        "turbulence2", 
+        "turbulence1", 
+        "turbulence0"
+    ], 
+    "shadow": [
+        "bungalows", 
+        "busStation", 
+        "cubicle", 
+        "backdoor", 
+        "copyMachine", 
+        "peopleInShade"
+    ], 
+    "badWeather": [
+        "blizzard", 
+        "skating", 
+        "wetSnow", 
+        "snowFall"
+    ], 
+    "lowFramerate": [
+        "turnpike_0_5fps", 
+        "port_0_17fps", 
+        "tunnelExit_0_35fps", 
+        "tramCrossroad_1fps"
+    ]
+}
